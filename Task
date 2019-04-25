@@ -1,0 +1,7 @@
+Enroll Student (Sectioning)
+	-Student List (In change of status check first if it is not enrolled, if not enrolled increment year level by 1 then do sectioning)
+	-Update Student Status
+Student List (For Transfers)
+Classes (Edit Classes)
+	-Finished in Showing specific subjects for a grade level a specific subject for that
+	-To finish (Submitting form without duplicates)
